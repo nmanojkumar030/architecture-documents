@@ -48,3 +48,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Large PDF files (over 100MB)
+Incremental Architecture.pdf
+
